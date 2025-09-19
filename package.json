@@ -15,7 +15,7 @@
     "@actions/core": "^1.10.0",
     "@octokit/rest": "^20.0.0",
     "minimatch": "^10.0.0",
-    "openai": "^4.20.1",
+    "openai": "^5.0.0",
     "parse-diff": "^0.11.1",
     "ts-node": "^10.9.1"
   },
